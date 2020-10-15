@@ -2,3 +2,4 @@ local machine
 this changes made from github.com
 
 smartgit
+change from github to smartgit
